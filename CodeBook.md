@@ -69,6 +69,7 @@ Description taken from 'README.txt' of source data set:
 ***
 # Format of 'tidydata' dataset
 
+
 |column name|type|levels|values|
 |:-----|:-----:|:-----:|:-----:|:-----:|
 |subject|Factor|30|"1",...,"30"|
